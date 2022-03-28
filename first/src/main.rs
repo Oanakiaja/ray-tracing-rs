@@ -1,3 +1,2 @@
-fn main() {
-    println!("Hello, world!");
-}
+mod vec3;
+fn main() {}
