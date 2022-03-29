@@ -21,6 +21,12 @@ impl Vec3 {
         Default::default()
     }
 
+    pub fn from(x: f32, y: f32, z: f32) -> Vec3 {
+        Vec3 {
+            value: vec![x, y, z],
+        }
+    }
+
     pub fn x(&self) -> f32 {
         *self.value.index(0)
     }

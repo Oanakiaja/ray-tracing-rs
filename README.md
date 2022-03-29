@@ -3,7 +3,7 @@ Rust version for https://raytracing.github.io/
 
  ## [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) [wip]
 
-- [x] Basic types, Vec3
+- [x] Basic types, Vec3 (included Unit Test)
 - [ ] Ray, etc
 - [ ] Background/Sky
 - [ ] Sphere
