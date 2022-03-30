@@ -7,8 +7,10 @@ Rust version for https://raytracing.github.io/
 - [x] Ray, etc 
 
   ![Result](./result.png)
+- [x] Sphere
+
+  ![Result2](./result1.png)
 - [ ] Background/Sky
-- [ ] Sphere
 - [ ] Lambertian Material
 - [ ] Metal Material with Different Fuzz
 - [ ] Glass Material with Different Refractive
